@@ -4,10 +4,10 @@
     "slug": "SociMy",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/SociMy logo-icon.png",
+    "icon": "./assets/SociMy icon.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/SociMy logo-splash.png",
+      "image": "./assets/SociMy splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -22,7 +22,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/SociMy logo-adaptive-icon.png",
+        "foregroundImage": "./assets/SociMy adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       }
     },
